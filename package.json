@@ -1,0 +1,13 @@
+{
+  "name": "lbc",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=4.3.1"
+  },
+  "dependencies": {
+    "cheerio": "~0.22.0",
+    "http": "0.0.0",
+    "https": "~1.0.0",
+    "nodemailer": "~3.1.8"
+  }
+}
