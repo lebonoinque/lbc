@@ -10,5 +10,5 @@
     "https": "~1.0.0",
     "nodemailer": "~3.1.8"
   },
-  "start": "node init.js",
+  "start": "node init.js"
 }
